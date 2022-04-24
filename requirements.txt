@@ -1,0 +1,13 @@
+altair
+pandas==1.2.4
+streamlit==1.0.0
+plotly==5.3.1
+pystan==2.19.1.1
+tensorflow==2.6.0
+keras==2.6.0
+sklearn
+wordcloud
+scipy
+lightgbm
+catboost
+xgboost
